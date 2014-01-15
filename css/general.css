@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+	height: 100%; /* Add this to position the backgroun. */
+}
+
+body {
+	font-size: 1.5rem;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	line-height: 1.75rem;
+	color: #FFF;
+	background-color: rgba(50, 3, 24, 1.0);
+}
+
+cite{
+	font-size: 1.5rem;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	line-height: 1.5rem;
+	color: #f4a3c0;
+	position: absolute;
+	left: 58%;
+	top: 22.25rem;
+}
+
+.first-quote {
+	font-size: 8.5rem;
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgba(184, 45, 93, 1.0);
+	position: absolute;
+	left: 24.5%;
+	top: 12.2rem;
+}
+
+.last-quote {
+	font-size: 8.5rem;
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgba(184, 45, 93, 1.0);
+	position: absolute;
+	left: 72%;
+	top: 22rem;
+}
+
+.billboard {
+	height: 20rem;
+	width: 55%;
+	background-color: #941751;
+	border-radius: 15px;
+	margin-top: 7rem;
+	margin-left: 22.5%;
+}
+
+blockquote {
+	padding: 3.5rem 5%;
+	
+}
